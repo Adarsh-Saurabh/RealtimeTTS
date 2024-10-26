@@ -1,6 +1,6 @@
 # RealtimeTTS
 
-[EN](../en/index.md) | [FR](../fr/index.md) | [ES](../es/index.md) | [DE](../de/index.md) | [IT](../it/index.md) | [ZH](../zh/index.md)
+[EN](../en/index.md) | [FR](../fr/index.md) | [ES](../es/index.md) | [DE](../de/index.md) | [IT](../it/index.md) | [ZH](../zh/index.md) | [HN](../hn/index.md)
 
 *रीयल-टाइम अनुप्रयोगों के लिए उपयोग में आसान, कम-विलंबता वाला टेक्स्ट-टू-स्पीच लाइब्रेरी*
 
